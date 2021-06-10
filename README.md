@@ -1,3 +1,3 @@
-# Tutorial como hacer un portafolio dinámico con HTML CSS y Javascript
+#Portafolio dinámico con HTML CSS y Javascript
 
 Probando...
